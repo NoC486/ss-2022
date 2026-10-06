@@ -11,11 +11,11 @@
 
 ## 默认安装
 ```
-bash <(curl -sL https://raw.githubusercontent.com/yahuisme/ss-2022/main/install.sh)
+bash <(curl -sL https://raw.githubusercontent.com/NoC486/ss-2022/main/install.sh)
 ```
 
 ## 无交互一键安装
 ```
-bash <(curl -sL https://raw.githubusercontent.com/yahuisme/ss-2022/main/install.sh) -p 12345 -w 'X3Z7Cp6YoxFvjD1dS+Gy4w=='
+bash <(curl -sL https://raw.githubusercontent.com/NoC486/ss-2022/main/install.sh) -p 12345 -w 'X3Z7Cp6YoxFvjD1dS+Gy4w=='
 ```
 使用无交互安装请自行修改端口和密码，密码需要符合 shadowsocks 2022-blake3-aes-128-gcm 加密规范。
